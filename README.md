@@ -11,6 +11,10 @@ Join our Telegram group to stay updated and get instructions on how to use this 
 
 ## 🚀 Run File
 
+```
+git clone https://github.com/hokireceh/onus.git && cd onus && python -m pip install -r requirements.txt
+```
+
 | Run with Proxy                   | Run without Proxy   |
 | -------------------------------- | ------------------- |
 | `nano data.txt` `python bot.py` | `bot.py` `data.txt` |
