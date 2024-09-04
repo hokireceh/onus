@@ -1,2 +1,1 @@
-# CONTOH QUERY / USER
-user=%7B%22id%22%3A7027694923%2C%22first_name%22%3A%22Clara%20Fuzii%F0%9F%8D%85%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22clarafuzii%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1725432370&hash=a6c77dca93d6024c0b4330e1aad384459cf74a88863796f033f82d53fcbe2b97&
+user={"id":7027694923,"first_name":"Clara Fuzii🍅","last_name":"","username":"clarafuzii","language_code":"id","allows_write_to_pm":true}&auth_date=1725432370&hash=a6c77dca93d6024c0b4330e1aad384459cf74a88863796f033f82d53fcbe2b97&
